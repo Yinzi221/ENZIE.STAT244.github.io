@@ -4,6 +4,8 @@ title: "About"
 
 About this site
 
+This is made on April 14. 15:00PM
+
 ```{r}
 1 + 1
 ```
