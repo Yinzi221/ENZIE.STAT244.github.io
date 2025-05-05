@@ -9,12 +9,17 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: test
+      - href: test.qmd
+        text: Test
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: minty
+    mainfont: arial
+    fontsize: 1.5rem
+    fontcolor: "#B5D268"
+    linkcolor: "#E2FD9E"
+    monofont: courier new
     toc: true
 
 editor: visual

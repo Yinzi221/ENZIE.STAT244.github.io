@@ -4,6 +4,10 @@ title: "About"
 
 About this site
 
+hi, I am Yinzi, a graduating senior at MHC.
+
+\![Photo of me\] (images/birds1.jpg)
+
 This is made on April 14. 15:00PM
 
 ```{r}

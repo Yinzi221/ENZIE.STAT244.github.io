@@ -11,6 +11,20 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\nhi, I am Yinzi, a graduating senior at MHC.\n![Photo of me] (images/birds1.jpg)\nThis is made on April 14. 15:00PM\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "TEST.html",
+    "href": "TEST.html",
+    "title": "Test",
+    "section": "",
+    "text": "stsnflsj"
+  },
+  {
+    "objectID": "test.html",
+    "href": "test.html",
+    "title": "Test",
+    "section": "",
+    "text": "stsnflsj"
   }
 ]
