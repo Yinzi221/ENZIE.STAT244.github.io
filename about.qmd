@@ -10,6 +10,8 @@ hi, I am Yinzi, a graduating senior at MHC.
 
 This is made on April 14. 15:00PM
 
+You can view my [CV here] (https://drive.google.com/file/d/1ZMLs88L85s6LWtUD3s2KoybVkWaVaFIP/view?usp=drive_link)
+
 ```{r}
 1 + 1
 ```
