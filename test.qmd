@@ -2,4 +2,23 @@
 title: "STAT 244-SC"
 ---
 
-stsnflsj
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(cache = TRUE)
+library(readr)
+library(purrr)
+library(dplyr)
+library(ggplot2)
+library(gridExtra)
+library(mosaic)
+library(gmodels)
+```
+
+```{r message=FALSE}
+filtered.data=read_csv("filtered_data.csv")
+```
+```{r}
+ggplot(data=filtered.data,aes(x=state, y=trump16_pct))+
+geom_boxplot()+
+theme_bw()
+```

@@ -25,6 +25,6 @@
     "href": "test.html",
     "title": "STAT 244-SC",
     "section": "",
-    "text": "stsnflsj"
+    "text": "filtered.data=read_csv(\"filtered_data.csv\")\n\n\nggplot(data=filtered.data,aes(x=state, y=trump16_pct))+\ngeom_boxplot()+\ntheme_bw()"
   }
 ]
