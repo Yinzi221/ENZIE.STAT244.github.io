@@ -25,6 +25,6 @@
     "href": "test.html",
     "title": "STAT 244-SC",
     "section": "",
-    "text": "filtered.data=read_csv(\"filtered_data.csv\")\n\n\nggplot(data=filtered.data,aes(x=state, y=trump16_pct))+\ngeom_boxplot()+\ntheme_bw()"
+    "text": "The report explores the demographic composition of two counties, California and Alabama, and their corresponding presidential vote totals in the 2016 election. Our analysis focuses on two variables related to demographic characteristics: 1) the percentage of the population that is foreign-born and 2) the percentage of the population with less than a bachelor’s degree. These metrics are based on five-year estimates from 2012 to 2016.\n\nfiltered.data=read_csv(\"filtered_data.csv\")\n\n\nggplot(data=filtered.data,aes(x=state, y=trump16_pct))+\ngeom_boxplot()+\ntheme_bw()"
   }
 ]

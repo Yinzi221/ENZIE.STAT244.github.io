@@ -2,6 +2,8 @@
 title: "STAT 244-SC"
 ---
 
+The report explores the demographic composition of two counties, California and Alabama, and their corresponding presidential vote totals in the 2016 election. Our analysis focuses on two variables related to demographic characteristics: 1) the percentage of the population that is foreign-born and 2) the percentage of the population with less than a bachelor’s degree. These metrics are based on five-year estimates from 2012 to 2016.
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(cache = TRUE)
